@@ -2,6 +2,10 @@
 
 A collection of awesome [Bridge.NET](https://bridge.net) and [Retyped](https://retyped.com) stuff.
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+## Contents
+
  - [Articles](#articles)
  - [Libraries](#libraries)
  

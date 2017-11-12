@@ -1,6 +1,6 @@
-# Awesome Bridge.NET
+# Awesome Bridge.NET and Retyped
 
-A collection of awesome Bridge.NET stuff
+A collection of awesome [Bridge.NET](https://bridge.net) and [Retyped](https://retyped.com) stuff.
 
  - [Articles](#articles)
  - [Libraries](#libraries)

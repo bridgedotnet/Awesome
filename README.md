@@ -18,6 +18,7 @@ A collection of awesome [Bridge.NET](https://bridge.net) and [Retyped](https://r
     - [Part 3](http://www.productiverage.com/writing-react-apps-using-bridgenet-the-dan-way-part-three)
   - [Performance tuning a Bridge.NET / React app](http://www.productiverage.com/performance-tuning-a-bridgenet-react-app)
   - [How to Write a Sophisticated SPA: TodoMVC using C#](https://hackernoon.com/how-to-write-a-sophisticated-spa-todomvc-using-c-df81ea50f4e0)
+  - [Widgetoko: A Node.js and Electron application written in C#](https://blog.bridge.net/widgetoko-a-node-js-and-electron-application-written-in-c-1a2be480e4f9)
  
 ## Libraries
 
@@ -25,7 +26,7 @@ Name | Description
 ---- | ----
 [Retyped](https://retyped.com/) | Access 2300+ libraries from C# and let Bridge.NET compile your project into JavaScript.
 [Retyped Demos](https://demos.retyped.com/) | Demo projects using Retyped.
-[Widgetoko](https://github.com/bridgedotnet/Widgetoko) | A Node.js and Electron demo app written in C# using Bridge and Retyped. ([blog post](https://blog.bridge.net/widgetoko-a-node-js-and-electron-application-written-in-c-1a2be480e4f9))
+[Widgetoko](https://github.com/bridgedotnet/Widgetoko) | A Node.js and Electron demo app. ([blog post](https://blog.bridge.net/widgetoko-a-node-js-and-electron-application-written-in-c-1a2be480e4f9))
 [A Reflection Comparer](https://michaelcheers.github.io/ReflectionComparison-Results/result.html) | Useful for finding missing functionality, it works by (comparing mscorlib.dll and Bridge.dll)'s reflection.
 [TypescriptToCS 2](https://github.com/michaelcheers/TypescriptToCS2) | A program that converts Typescript Definitions to C# to make bindings.
 [Bridge.React](https://github.com/ProductiveRage/Bridge.React) | Bindings for Bridge.NET for React - write React applications in C#!

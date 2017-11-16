@@ -6,10 +6,29 @@ A collection of awesome [Bridge.NET](https://bridge.net) and [Retyped](https://r
 
 ## Contents
 
+ - [Companies](#companies)
+ - [Open Source Projects](#open-source-projects)
  - [Articles](#articles)
  - [Libraries](#libraries)
  
- ## Articles
+## Companies
+
+Using Bridge or Retyped in a commercial project? Let the community know and please provide a brief description of the project(s).
+
+Name | Description
+---- | ----
+... | ...
+ 
+## Open Source Projects
+
+Are you using Bridge or Retyped in an open-source project? Add a link to the project below:
+
+Project | Description
+---- | ----
+[Widgetoko](https://github.com/bridgedotnet/Widgetoko) | A Node.js and Electron demo app. ([blog post](https://blog.bridge.net/widgetoko-a-node-js-and-electron-application-written-in-c-1a2be480e4f9))
+[Retyped Demos](https://demos.retyped.com/) | Demo projects using Retyped.
+
+## Articles
 
   - [Building React Applications in C#: A Beginners Guide](https://medium.com/@zaid.naom/building-react-applications-in-c-a-beginners-guide-5a2d001744c4)
   - Writing React apps using Bridge.NET - The Dan Way
@@ -25,8 +44,6 @@ A collection of awesome [Bridge.NET](https://bridge.net) and [Retyped](https://r
 Name | Description
 ---- | ----
 [Retyped](https://retyped.com/) | Access 2300+ libraries from C# and let Bridge.NET compile your project into JavaScript.
-[Retyped Demos](https://demos.retyped.com/) | Demo projects using Retyped.
-[Widgetoko](https://github.com/bridgedotnet/Widgetoko) | A Node.js and Electron demo app. ([blog post](https://blog.bridge.net/widgetoko-a-node-js-and-electron-application-written-in-c-1a2be480e4f9))
 [A Reflection Comparer](https://michaelcheers.github.io/ReflectionComparison-Results/result.html) | Useful for finding missing functionality, it works by (comparing mscorlib.dll and Bridge.dll)'s reflection.
 [TypescriptToCS 2](https://github.com/michaelcheers/TypescriptToCS2) | A program that converts Typescript Definitions to C# to make bindings.
 [Bridge.React](https://github.com/ProductiveRage/Bridge.React) | Bindings for Bridge.NET for React - write React applications in C#!

@@ -10,6 +10,7 @@ A collection of awesome [Bridge.NET](https://bridge.net) and [Retyped](https://r
  - [Open Source Projects](#open-source-projects)
  - [Articles](#articles)
  - [Libraries](#libraries)
+ - [Other](#other)
  
 ## Companies
 
@@ -52,3 +53,9 @@ Name | Description
 [Bridge.Ractive](https://github.com/Zaid-Ajaj/Bridge.Ractive) | Bindings of Ractive.js to be used in Bridge.NET projects.
 [Bridge.ChartJS](https://github.com/Zaid-Ajaj/Bridge.ChartJS) | Bindings for Chart.js library to be used in Bridge.NET projects.
 [Bridge.Newtonsoft.Json](https://github.com/bridgedotnet/Bridge.Newtonsoft.Json) | A Bridge.NET implementation of the Newtonsoft.Json API. 
+
+## Other
+
+Name | Description
+---- | ----
+[Deck.NET](https://deck.net) | Online playground powered by Bridge.NET

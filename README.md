@@ -38,6 +38,7 @@ Project | Description
   - [Performance tuning a Bridge.NET / React app](http://www.productiverage.com/performance-tuning-a-bridgenet-react-app)
   - [How to Write a Sophisticated SPA: TodoMVC using C#](https://hackernoon.com/how-to-write-a-sophisticated-spa-todomvc-using-c-df81ea50f4e0)
   - [Widgetoko: A Node.js and Electron application written in C#](https://blog.bridge.net/widgetoko-a-node-js-and-electron-application-written-in-c-1a2be480e4f9)
+  - [Introducing Cable: Type-Safe Web Apps in C# with NancyFx and Bridge.NET](https://medium.com/@zaid.naom/introducing-cable-deep-dive-into-building-type-safe-web-apps-in-c-with-bridge-net-and-nancy-a65f48398a02)
  
 ## Libraries
 
@@ -47,6 +48,7 @@ Name | Description
 [Bridge.React](https://github.com/ProductiveRage/Bridge.React) | Bindings for Bridge.NET for React - write React applications in C#!
 [Bridge.ReactRouting](https://github.com/ProductiveRage/Bridge.ReactRouting) | Routing solution for React Apps with Bridge.NET.
 [Bridge.Immutable](https://github.com/ProductiveRage/Bridge.Immutable) | A way to make it easier to create and work with immutable classes in Bridge.NET.
+[Cable](https://github.com/Zaid-Ajaj/Cable) | Type-safe client-server communication for C# featuring Bridge.NET and NancyFx
 [Bridge.Ractive](https://github.com/Zaid-Ajaj/Bridge.Ractive) | Bindings of Ractive.js to be used in Bridge.NET projects.
 [Bridge.ChartJS](https://github.com/Zaid-Ajaj/Bridge.ChartJS) | Bindings for Chart.js library to be used in Bridge.NET projects.
 [Bridge.Newtonsoft.Json](https://github.com/bridgedotnet/Bridge.Newtonsoft.Json) | A Bridge.NET implementation of the Newtonsoft.Json API. 

@@ -27,7 +27,7 @@ Project | Description
 [Widgetoko](https://github.com/bridgedotnet/Widgetoko) | A Node.js and Electron demo app. ([blog post](https://blog.bridge.net/widgetoko-a-node-js-and-electron-application-written-in-c-1a2be480e4f9))
 [Retyped Demos](https://demos.retyped.com/) | Demo projects using Retyped.
 [WebArena](https://github.com/daeken/WebArena) | Quake 3 port to web using WebGL.
-[OpencascadeExplorer] (http://www.creativecadtechnology.com/OCC/ShowScript?userName=bridenet&groupName=demo&scriptName=MakeBottle) | made with Bridge.Net
+[OpencascadeExplorer](http://www.creativecadtechnology.com/OCC/ShowScript?userName=bridenet&groupName=demo&scriptName=MakeBottle) | made with Bridge.Net
 ## Articles
 
   - [Building React Applications in C#: A Beginners Guide](https://medium.com/@zaid.naom/building-react-applications-in-c-a-beginners-guide-5a2d001744c4)

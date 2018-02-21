@@ -15,7 +15,7 @@ A collection of awesome [Bridge.NET](https://bridge.net) and [Retyped](https://r
 Using Bridge or Retyped in a commercial project? Let the community know and please provide a brief description of the project(s).
 
 Name | Description
----- | ----
+[moreno-psychodrama](https://my.moreno-psychodrama.de) | Small seminar mangement and booking system (Excpected Online date End of 2018)
 ... | ...
  
 ## Open Source Projects

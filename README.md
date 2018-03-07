@@ -31,6 +31,7 @@ Project | Description
 [Retyped Demos](https://demos.retyped.com/) | Demo projects using Retyped
 [WebArena](https://github.com/daeken/WebArena) | Quake 3 port to web using WebGL
 [OpencascadeExplorer](http://www.creativecadtechnology.com/OCC/ShowScript?userName=bridenet&groupName=demo&scriptName=MakeBottle) | 3D modeling with [Open Cascade](https://www.opencascade.com)
+[Granular](https://github.com/yuvaltz/Granular) | Implementation of WPF compiled to JavaScript, allowing WPF aps to run in the browser
 
 ## Articles
 
@@ -64,5 +65,5 @@ Name | Description
 [Deck.NET](https://deck.net) | Online playground powered by Bridge.NET
 [Bridge CLI](https://bridge.net/download) | A Windows and Mac command line interface for Bridge compiler
 [A Reflection Comparer](https://michaelcheers.github.io/ReflectionComparison-Results/result.html) | Useful for finding missing functionality, it works by (comparing mscorlib.dll and Bridge.dll)'s reflection
-[TypescriptToCS 2](https://github.com/michaelcheers/TypescriptToCS2) | A program that converts Typescript Definitions to C# to make bindings
+[TypescriptToCS2](https://github.com/michaelcheers/TypescriptToCS2) | A program that converts Typescript Definitions to C# to make bindings
 

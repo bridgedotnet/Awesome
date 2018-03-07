@@ -19,7 +19,7 @@ Name | Description
 [moreno-psychodrama](https://my.moreno-psychodrama.de) | Small seminar mangement and booking system (Excpected Online date End of 2018)
 [Chartnando](http://www.chartnado.com/) | Create modern web, mobile & PowerPoint dashboards without leaving Excel
 [CINgroup](https://www.cingroup.com/) | Software and data products and services for bankruptcy attorneys and their clients.
-[moreno-psychodrama](https://www.ceridian.com/) | Human resources software and services.
+[Ceridian](https://www.ceridian.com/) | Human resources software and services.
 
 ## Open Source Projects
 

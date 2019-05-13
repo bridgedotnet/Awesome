@@ -59,6 +59,7 @@ Name | Description
 [Bridge.Ractive](https://github.com/Zaid-Ajaj/Bridge.Ractive) | Bindings of Ractive.js to be used in Bridge.NET projects
 [Bridge.ChartJS](https://github.com/Zaid-Ajaj/Bridge.ChartJS) | Bindings for Chart.js library to be used in Bridge.NET projects
 [Bridge.Newtonsoft.Json](https://github.com/bridgedotnet/Bridge.Newtonsoft.Json) | A Bridge.NET implementation of the Newtonsoft.Json API
+[Philadelphia Toolkit](https://github.com/todo-it/philadelphia/) | Integrated aspnet core and Bridge.NET crossplatform toolkit for building typesafe single page web applications applications in C#
 
 ## Other
 

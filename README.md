@@ -34,6 +34,7 @@ Project | Description
 [WebArena](https://github.com/daeken/WebArena) | Quake 3 port to web using WebGL
 [OpencascadeExplorer](http://www.creativecadtechnology.com/OCC/ShowScript?userName=bridenet&groupName=demo&scriptName=MakeBottle) | 3D modeling with [Open Cascade](https://www.opencascade.com)
 [Granular](https://github.com/yuvaltz/Granular) | Implementation of WPF compiled to JavaScript, allowing WPF aps to run in the browser
+[Plotly.Bridge](https://github.com/curiosity-ai/plotly.bridge) | Strongly-typed bindings to use Plotly on Bridge.Net.
 
 ## Articles
 
